@@ -79,7 +79,6 @@ public class CircularLinkedListNGTest {
         return listAge;
     }
 
-
     public CircularLinkedList getTitleList(CircularLinkedList list, String title) {
         CircularLinkedList listTitle = new CircularLinkedList();
         try {
