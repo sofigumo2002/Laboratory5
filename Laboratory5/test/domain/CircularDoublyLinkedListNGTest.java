@@ -24,6 +24,7 @@ public class CircularDoublyLinkedListNGTest {
     @Test
     public void testSomeMethod() {
 
+        //listas
         CircularDoublyLinkedList a = new CircularDoublyLinkedList();
         CircularDoublyLinkedList b = new CircularDoublyLinkedList();
         CircularDoublyLinkedList c = new CircularDoublyLinkedList();
